@@ -19,6 +19,7 @@
     "button-connect-facebook": "x-element/button-connect-facebook",
     "button-connect-google": "x-element/button-connect-google",
     "form-braintree": "x-element/form-braintree",
+    "input-datetime": "x-element/input-datetime",
     "input-location": "x-element/input-location",
     "layout-grid": "x-element/layout-grid",
     "oauth-connect-facebook": "x-element/oauth-connect-facebook",
