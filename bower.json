@@ -28,6 +28,7 @@
     "oauth-session": "x-element/oauth-session",
     "oauth-v1": "x-element/oauth-v1",
     "oauth-v2": "x-element/oauth-v2",
+    "part-jumbotron": "x-element/part-jumbotron",
     "select-lang": "x-element/select-lang",
     "string-interpolation": "x-element/string-interpolation",
     "style-bootstrap": "x-element/style-bootstrap",
