@@ -32,7 +32,6 @@
     "part-jumbotron": "x-element/part-jumbotron",
     "select-lang": "x-element/select-lang",
     "string-interpolation": "x-element/string-interpolation",
-    "style-bootstrap": "x-element/style-bootstrap",
     "xml-parser": "x-element/xml-parser"
   },
   "keywords": [
