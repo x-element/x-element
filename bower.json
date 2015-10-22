@@ -21,6 +21,7 @@
     "form-braintree": "x-element/form-braintree",
     "input-datetime": "x-element/input-datetime",
     "input-location": "x-element/input-location",
+    "input-s3": "x-element/input-s3",
     "layout-grid": "x-element/layout-grid",
     "oauth-connect-facebook": "x-element/oauth-connect-facebook",
     "oauth-connect-google": "x-element/oauth-connect-google",
