@@ -32,8 +32,8 @@
     "oauth-v2": "x-element/oauth-v2",
     "part-jumbotron": "x-element/part-jumbotron",
     "select-lang": "x-element/select-lang",
-    "string-interpolation": "x-element/string-interpolation",,
-    "text-view": "x-element/text-view",,
+    "string-interpolation": "x-element/string-interpolation",
+    "text-view": "x-element/text-view",
     "xml-parser": "x-element/xml-parser"
   },
   "keywords": [
